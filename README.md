@@ -1,1 +1,1 @@
-# Baitapt3
+Bài tập điều khiển đèn LED khi bấm 1 lần sẽ thay đổi trạng thái của đèn, bấm 2 lần đèn sẽ nhấp nháy theo chu kỳ 200ms sử dụng LED mặc định của ESP32 được kết nối tới chân GPIO2 và nút boot được kết nối đến chân GPIO0
